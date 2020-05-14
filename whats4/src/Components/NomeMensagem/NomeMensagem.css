@@ -1,0 +1,20 @@
+.inputUsuario{
+    width: 7vw;
+    border-radius: 4px 4px 4px 4px;
+    /* background: rgb(220,248,198); */
+}
+
+.inputMensagem{
+    width: 21.5vw;
+    border-radius: 4px 4px 4px 4px;
+    
+}
+
+button{
+    border-radius: 1000px;
+    background: #ffe196
+}
+
+.divmensagem{
+    background: rgb(220,248,198);
+}
